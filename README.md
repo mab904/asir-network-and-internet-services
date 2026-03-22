@@ -1,4 +1,4 @@
-# Network and Internet Services – ASIR Module
+# 🌐 Network and Internet Services – ASIR Module
 
 This repository contains the practical assignments from the Security and High Availability module. 
 (Most of the documents are hands‑on labs focused on basic Linux network services such as mail servers, Apache, FTP, DNS and DHCP.)  
